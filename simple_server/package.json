@@ -1,0 +1,14 @@
+{
+  "name": "web_app",
+  "version": "1.0.0",
+  "description": "my first web application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohith",
+  "license": "ISC",
+  "dependencies": {
+    "http-status-codes": "^2.2.0"
+  }
+}
